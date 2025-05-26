@@ -470,9 +470,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 18c959cb5b30a274485ca67be2f01099, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  XRRayInteractor_RightHand_Grab: {fileID: 0}
-  XRRayInteractor_RightHand_Teleport: {fileID: 0}
-  PalancaControlDerecho: {fileID: 0}
+  XRRayInteractor_RightHand_Grab: {fileID: 1248543586}
+  XRRayInteractor_RightHand_Teleport: {fileID: 382109259}
+  PalancaControlDerecho: {fileID: -8061240218431744966, guid: c348712bda248c246b8c49b3db54643f, type: 3}
 --- !u!1 &290372963
 GameObject:
   m_ObjectHideFlags: 0
@@ -1521,7 +1521,7 @@ MonoBehaviour:
   m_SmoothMovement: 0
   m_FollowTightness: 10
   m_SnapThresholdDistance: 10
-  m_Reticle: {fileID: 0}
+  m_Reticle: {fileID: 3177232254315139758, guid: a3fde713df4d99042a0403c4be9eea32, type: 3}
   m_BlockedReticle: {fileID: 0}
   m_StopLineAtFirstRaycastHit: 1
   m_StopLineAtSelection: 0
